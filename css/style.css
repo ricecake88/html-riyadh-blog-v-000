@@ -9,7 +9,7 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Tahoma, Helvetica, Arial, sans-serif;
   font-size: 100%;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 #content {
-  padding: 20px;
+  padding: 15px;
   background: rgba(255,255,255,.85);
 }
 
